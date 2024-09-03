@@ -45,7 +45,7 @@ This section is for maintaining a changelog for all breaking changes for the cli
 ### Removed
 
 ### Fixed
-- Remove required check on ShardStats.shards ([#XXX](https://github.com/opensearch-project/opensearch-java/pull/XXX))
+- Remove required check on ShardStats.shards ([#1177](https://github.com/opensearch-project/opensearch-java/pull/1177))
 
 ### Security
 
